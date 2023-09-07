@@ -2,7 +2,7 @@
     <div class="w-full h-screen h-[100vh] bg-white">
         <div class="w-full flex items-ceter justify-center p-5 border-b border-b-gray-300">
             <NuxtLink to="/" class="min-w-[170px]">
-                <img src="/AliExpress-logo.png" width="170" alt="">
+                <img src="/Enid-Water-Logo.png" width="170" alt="">
             </NuxtLink>
         </div>
 
