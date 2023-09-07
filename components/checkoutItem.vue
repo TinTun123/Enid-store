@@ -8,7 +8,7 @@
         <div class="overflow-hidden pl-2">
             <div class="overflow-hidden pl-2">
                 <div class="flex items-center">
-                    <span class="bg-[#FD374F] text-white text-[9px] font-semibold px-1.5 rounded-sm min-w-[80px]">Welcome Deal</span>
+                    <span class="bg-[#009CDE] text-white text-[9px] font-semibold px-1.5 rounded-sm min-w-[80px]">Welcome Deal</span>
                     <div class="truncate pl-2">{{ product.title }} </div>
                 </div>
 

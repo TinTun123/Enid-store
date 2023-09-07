@@ -23,7 +23,7 @@
                 </span>
 
                 <div class="flex items-center gap-1 px-1 relative -top-1">
-                    <span class="bg-[#FD374F] text-white text-[9px] font-semibold px-1.5 rounded-sm">
+                    <span class="bg-[#009CDE] text-white text-[9px] font-semibold px-1.5 rounded-sm">
                         Welcome deal
                     </span>
                     <span class="bg-[#5F5F5F] border text-[#C08562] text-[9px] font-semibold px-1.5 rounded-sm">

@@ -12,7 +12,7 @@
             bg-[#FAFAFA]
             max-w-[1200px]">
                 <li class="border-r-gray-400 px-3 hover:text-[#FF4646] cursor-pointer ">
-                    Sell on Aliexpress
+                    Sell on Enid
                 </li>
 
                 <li class="border-r-gray-400 px-3 hover:text-[#FF4646] cursor-pointer ">
@@ -71,17 +71,17 @@
        <div id="MainHeader" class="flex justify-between w-full  bg-white">
             <div class="flex lg:justify-between justify-between gap-10 max-w-[1250px] w-full px-3 py-5 mx-auto">
                 <div class="flex lg:justify-start justify-between gap-10">
-                    <NuxtLink to="/" class="min-w-[170px]">
-                        <img src="/AliExpress-logo.png" width="170" alt="">
+                    <NuxtLink to="/" class="min-w-[170px] h-16">
+                        <img src="/Enid-Water-Logo.png" width="170" class="h-full" alt="">
                     </NuxtLink>
 
                     <div class="max-w-[700px] w-full flex items-center md:block hidden">
                         <div class="relative">
-                            <div class="flex items-center border-2 border-[#FF4646] rounded-md w-full">
+                            <div class="flex items-center border-2 border-[#003087] rounded-md w-full">
                                 <input type="text" class="w-full placeholder-gray-400 text-sm pl-3 focus:outline-none" placeholder="Kitchen accessories" v-model="searchItems">
                                 <Icon v-if="isSearching" name="eos-icons:loading" size="25" class="mr-2"/>
 
-                                <button class="flex items-center h-[100%] p-1.5 px-2 bg-[#FF4646]">
+                                <button class="flex items-center h-[100%] p-1.5 px-2 bg-[#003087]">
                                     <Icon name="ph:magnifying-glass" size="20" color="#ffffff" />
                                 </button>
                             </div>

@@ -71,7 +71,7 @@
                                 flex
                                 items-center
                                 justify-center
-                                bg-[#FD374F] 
+                                bg-[#009CDE] 
                                 w-full 
                                 text-white 
                                 text-[21px] 

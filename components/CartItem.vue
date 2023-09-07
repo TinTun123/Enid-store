@@ -18,7 +18,7 @@
             <div class="flex items-center justify-between w-full">
                 <div class="flex items-center justify-between truncate">
 
-                    <span class="hidden sm:block bg-[#FD374F] text-white text-[9px] font-semibold px-1.5 rounded-sm">Welcome Deal</span>
+                    <span class="hidden sm:block bg-[#009CDE] text-white text-[9px] font-semibold px-1.5 rounded-sm">Welcome Deal</span>
 
                     <div class="truncate sm:pl-2">
                         {{ product.title }}
